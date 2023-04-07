@@ -1,3 +1,4 @@
+import numpy as np
 # function to whiten data
 def whiten(strain, interp_psd, dt):
     Nt = len(strain)
