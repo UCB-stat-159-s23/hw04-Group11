@@ -204,3 +204,9 @@ def plot_psd(fs, template_p, template_c, time, strain_L1, strain_H1, template_of
             plt.legend(loc='upper left')
             plt.title(det+' ASD and template around event')
             plt.savefig('figures/'+eventname+"_"+det+"_matchfreq."+plottype)
+            
+            
+
+def test_whiten():
+    """Frequency shift the signal by constant
+    """
