@@ -208,5 +208,19 @@ def plot_psd(fs, template_p, template_c, time, strain_L1, strain_H1, template_of
             
 
 def test_whiten():
-    """Frequency shift the signal by constant
+    """test function whiten
+    """
+    
+def test_write_wavfile():
+    """test function write_wavfile
+    """
+    
+
+def test_reqshift():
+    """test function reqshift
+    """
+    
+    
+def test_plot_psd():
+    """test function plot_psd
     """
