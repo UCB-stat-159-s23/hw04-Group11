@@ -207,20 +207,29 @@ def plot_psd(fs, template_p, template_c, time, strain_L1, strain_H1, template_of
             
             
 
+import utils as ut
+import pytest
+
+# Loaddata
+whiten, write_wavfile, reqshift, plot_psd= ut.loaddata("ligotools/utils")
+
+
+strain, interp_psd, dt
 def test_whiten():
     """test function whiten
     """
+    assert isinstance(whiten, np.ndarray)
     
-def test_write_wavfile():
-    """test function write_wavfile
-    """
+#def test_write_wavfile():
+#    """test function write_wavfile
+#    """
     
 
-def test_reqshift():
-    """test function reqshift
-    """
+#def test_reqshift():
+#    """test function reqshift
+#    """
     
     
-def test_plot_psd():
-    """test function plot_psd
-    """
+#def test_plot_psd():
+#    """test function plot_psd
+#    """
