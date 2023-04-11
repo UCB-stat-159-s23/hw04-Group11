@@ -5,6 +5,7 @@ from scipy.interpolate import interp1d
 from scipy.signal import butter, filtfilt, iirdesign, zpk2tf, freqz
 import h5py
 import json
+import pytest
 
 # the IPython magic below must be commented out in the .py file, since it doesn't work there.
 import matplotlib.pyplot as plt
@@ -206,28 +207,3 @@ def plot_psd(fs, template_p, template_c, time, strain_L1, strain_H1, template_of
             plt.savefig('figures/'+eventname+"_"+det+"_matchfreq."+plottype)
             
             
-
-import pytest
-
-# Loaddata
-whiten, write_wavfile, reqshift, plot_psd= ut.loaddata("ligotools/utils")
-
-
-strain, interp_psd, dt
-def test_whiten():
-    """test function whiten
-    """
-    
-#def test_write_wavfile():
-#    """test function write_wavfile
-#    """
-    
-
-#def test_reqshift():
-#    """test function reqshift
-#    """
-    
-    
-#def test_plot_psd():
-#    """test function plot_psd
-#    """
