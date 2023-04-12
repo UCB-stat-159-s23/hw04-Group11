@@ -11,3 +11,7 @@ Janet Choe:
 
 * Completed Github pages / continuous integration with github actions section
 * Completed Makefile section
+
+Kanglin He:
+* Completed Add tests to utils.py section
+* Completed the JupterBook section, set up the JupyterBook which includes main notebook and a visible Binder link
