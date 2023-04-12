@@ -6,3 +6,8 @@ Janet Choe:
 
 * Completed "Installable Packages", "Add tests to readligo.py", and "Make new plotting utility in utils.py"
 * Looked over repository structure
+
+(Daniel) Nevin Richards:
+
+* Completed Github pages / continuous integration with github actions section
+* Completed Makefile section
