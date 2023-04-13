@@ -5,7 +5,6 @@ from scipy.interpolate import interp1d
 from scipy.signal import butter, filtfilt, iirdesign, zpk2tf, freqz
 import h5py
 import json
-import pytest
 
 # the IPython magic below must be commented out in the .py file, since it doesn't work there.
 import matplotlib.pyplot as plt
