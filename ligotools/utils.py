@@ -139,11 +139,12 @@ def plot_psd(fs, template_p, template_c, time, strain_L1, strain_H1, template_of
                 pcolor='g'
                 strain_whitenbp = strain_L1_whitenbp
                 template_L1 = template_match.copy()
+                return template_L1
             else:
                 pcolor='r'
                 strain_whitenbp = strain_H1_whitenbp
                 template_H1 = template_match.copy()
-
+                return template_H1
             # -- Plot the result
             plt.figure(figsize=(10,8))
             plt.subplot(2,1,1)
