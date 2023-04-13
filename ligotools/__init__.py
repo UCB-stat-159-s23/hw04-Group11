@@ -1,2 +1,2 @@
 from .readligo import *
-from pytest import *
+from .utils import *
