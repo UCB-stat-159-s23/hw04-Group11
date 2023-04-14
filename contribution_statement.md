@@ -15,3 +15,7 @@ Janet Choe:
 Kanglin He:
 * Completed Add tests to utils.py section
 * Completed the JupterBook section, set up the JupyterBook which includes main notebook and a visible Binder link
+
+Henry Lam:
+* Created `data`, `figures`, and `audio` directories and saved all the associated files
+* Created `utils.py`
