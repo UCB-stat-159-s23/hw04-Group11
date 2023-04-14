@@ -11,6 +11,7 @@ Janet Choe:
 
 * Completed Github pages / continuous integration with github actions section
 * Completed Makefile section
+* Helped debug and fix dependencies for Jupyter-book
 
 Kanglin He:
 * Completed Add tests to utils.py section
