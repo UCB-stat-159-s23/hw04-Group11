@@ -1,0 +1,52 @@
+* [33m7b56e50[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: add-tests-utils.py[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m finished four tests for utils.py
+* [33m9db63b2[m add package
+* [33m91274b8[m update package
+* [33m8cd2b9d[m add reqirement packages
+* [33m1a25d2f[m delete original LOSC notebook and replace with updated one
+* [33mfb5c116[m remove default jupyterbook and replace it with custom ligo one
+* [33m25c8a74[m added Nevin's contributions
+* [33m214c975[m[33m ([m[1;33mtag: makefile[m[33m)[m added makefile with env, clean, html, help targets
+* [33mbce12f9[m update Jupyter-book build file path in book.yml
+* [33m2610f0e[m update requirements.txt path in book.yml
+* [33m1a3362d[m create and set up JupterBook and visible Binder link
+* [33m6181839[m[33m ([m[1;33mtag: set-up-JupterBook-and-Binder-link[m[33m)[m create test_utils.py for tests four functions of utils.py
+* [33m5e29833[m delete and move the tests to test_utils.py
+* [33m5fffeab[m use default GITHUB_TOKEN in book.yml
+* [33mdede260[m add book name to fix build command in book.yml
+* [33m1cb8466[m update book.yml with requirements path, GH secret
+* [33ma1c9ab6[m janet's contribution statement
+* [33m3db2abe[m update book.yml to use requirements.txt
+* [33mdb27ff7[m[33m ([m[1;33mtag: github-pages/actions[m[33m)[m create book.yml for GitHub actions
+* [33m5042ea7[m update JupterBook
+* [33m8fe92a5[m update tests
+* [33mc8df46c[m build JupterBook
+* [33ma55a4a8[m create jupterbook
+* [33maa0d137[m create jupterbook and bulid the link
+* [33m89bab52[m adding tests
+* [33me277e87[m update tests
+* [33m16ed718[m[33m ([m[1;33mtag: plotting-utility-in-utils.py[m[33m)[m making new plotting utility in utils.py
+* [33m01735ef[m updating setup.cfg file
+* [33ma32a426[m rename tests_readligo to test_readligo
+* [33m484a776[m added data files in data directory
+* [33mb78f6b0[m updated notebook
+* [33mbf9c339[m updated utils.py
+* [33me6dac80[m added figures files in figures directory
+* [33m7a05916[m[33m ([m[1;33mtag: add-tests-readligo.py[m[33m)[m tests for readligo.py
+* [33me65569e[m[33m ([m[1;33mtag: creating-installable-packages[m[33m)[m installable packages
+* [33ma43d195[m adding csv file into data folder
+* [33m4f07114[m Create README.md
+* [33m0ce9bd7[m Delete README.md
+* [33m198bfef[m created an empty README.md file
+* [33m5f000ce[m[33m ([m[1;33mtag: repository-structure[m[33m, [m[1;33mtag: create-utils.py[m[33m)[m updated notebbok after created utils.py
+* [33mc73be30[m 'moved whiten', 'write_wavfile', 'reqshift' functions from notebook in utils.py
+* [33mac14d2b[m created an empty utils.py file
+* [33m25a91ea[m deleted notebook
+* [33m52cc0fd[m updated notebook
+* [33mecd0a1b[m updated notebook
+* [33m6892feb[m added all audio filse in audio directory
+* [33mf9b2b6d[m added figures in figures directory
+* [33m43a38fb[m moved all data files in data directory
+* [33mff483f7[m created an empty audio directory
+* [33m68577a0[m created an empty figures directory
+* [33m2173a33[m created an empty data directory
+* [33m62e5ed1[m Initial commit
